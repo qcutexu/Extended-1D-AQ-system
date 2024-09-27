@@ -1,4 +1,5 @@
 Extended one-dimensional reduced model for blood flow within a stenotic artery
+
 by Suncica Canic, Shihan Guo, Yifan Wang, Xiaohe Yue, Haibiao Zheng
 
 In this paper, we introduce an adapted one-dimensional (1D) reduced model aimed at analyzing blood flow within stenosed arteries. 
