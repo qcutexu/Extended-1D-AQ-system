@@ -9,7 +9,6 @@ for axially symmetric flow in cylindrical coordinates and then derives the exten
 effects of variable radii of the vessel along the longitudinal direction. Additionally, we propose a method to extract radial velocity information from 
 the 1D results during post-processing, enabling the generation of two-dimensional (2D) velocity data. We validate our model by conducting numerical simulations 
 of blood flow through stenotic arteries with varying severities, ranging from 23% to 50%. The results were compared to those from the established 1D model 
-and a full three-dimensional (3D) simulation, highlighting the potential and importance of this model for arteries with variable radius. All the code used 
-to generate the results presented in the paper is available at this https URL.
+and a full three-dimensional (3D) simulation, highlighting the potential and importance of this model for arteries with variable radius.
 
 
